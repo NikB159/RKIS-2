@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace yield
 {
 	public static class ExpSmoothingTask
